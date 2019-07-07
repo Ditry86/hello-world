@@ -1,2 +1,4 @@
 # hello-world
-My first github experience
+My first github experience.
+And I = Suetin Dmitry Aleksandrovich, begginer proger )))
+Hallo! Cheloveki!
